@@ -10,26 +10,46 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mohammed Adil.s - Al Azhar College Of Engineering And Technology
+- Member 2: Mohammed Mahboob - Al Azhar College Of Engineering And Technology
+
 
 ### Project Description
-[2-3 lines about what your project does]
+WHERE AM I NOT? is a completely useless project that lets users pretend they were at a place they never visited, then generates a humorous “Certificate of Not Being There.” It uses modern geolocation and 3D globe technology to turn an unnecessary idea into an entertaining experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Our project creates an unnecessarily sophisticated system that verifies your absence and generates a completely useless Certificate of Not Being There.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
+We use AI, geolocation, and a futuristic 3D globe to investigate a place you definitely weren’t at. The system then performs an unnecessarily serious “absence verification” and proudly generates a Certificate of Not Being There—solving absolutely nothing, with maximum technology.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - [Languages used]
+  - HTML5
+  - CSS3
+  - JavaScript
 - [Frameworks used]
+  - Next.js
+  - React
+  - Tailwind CSS
 - [Libraries used]
+  - Leaflet — interactive maps
+  - OpenStreetMap — map tiles
+  - html2canvas — certificate rendering
+  - jsPDF — certificate PDF download
 - [Tools used]
+  - Visual Studio Code
+  - GitHub
+  - GitHub Desktop
+  - npm
+  - Next.js development server
+  - Browser DevTools
+  - OpenStreetMap
+  - Leaflet map tools
+  - Vercel-ready deployment setup
 
 For Hardware:
 - [List main components]
