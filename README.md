@@ -6,8 +6,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Theepori
 
 ### Team Members
 - Team Lead: Mohammed Adil.s - Al Azhar College Of Engineering And Technology
